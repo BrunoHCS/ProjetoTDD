@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.exe
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.deps.json
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.runtimeconfig.json
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.dll
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.pdb
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.AssemblyInfo.cs
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.dll
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\refint\CalculadoraTDD.dll
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.pdb
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.genruntimeconfig.cache
+C:\Users\bruno\Desktop\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\ref\CalculadoraTDD.dll
